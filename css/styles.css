@@ -24,7 +24,7 @@ body {
 }
 img {
   display: block;
-  min-width: 100%;
+  width: 100%;
 }
 .container {
   width: 1200px;
@@ -60,7 +60,7 @@ img {
   padding-top: 60px;
 }
 .logo.footer {
-  display: block;
+  display: inline-block;
   padding-top: 60px;
 }
 .logo {
